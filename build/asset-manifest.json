@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f9aea4f4.js",
+    "static/media/verum-omnis-logo.png": "/static/media/verum-omnis-logo.c3ab311c7564feede9a2.png",
+    "index.html": "/index.html",
+    "main.f9aea4f4.js.map": "/static/js/main.f9aea4f4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f9aea4f4.js"
+  ]
+}
