@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './verum-omnis-logo.png';
+import logo from './assets/verum-omnis-logo.png';
 
 function App() {
   return (
